@@ -1,17 +1,18 @@
 export const personalData = {
-  name: "ABU SAID",
-  profile: '/profile.png',
-  designation: "Software Developer",
-  description: "My name is ABU SAID. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
-  email: 'abusaid7388@gmail.com',
-  phone: '+8801608797655',
-  address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
-  github: 'https://github.com/said7388',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-  twitter: 'https://twitter.com/said7388',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
+  name: "Hassan Talha",
+  profile: "/profile.png",
+  designation: "Flutter Developer | Full-Stack Solutions",
+  description:
+    "I am a passionate Flutter Developer with experience in building cross-platform mobile apps, backend systems, and web applications. Skilled in Flutter, Dart, Node.js, and Next.js, I focus on delivering clean, user-friendly, and scalable solutions. I enjoy solving problems, learning new technologies, and creating impactful digital experiences. I am open to opportunities that align with my skills and career growth.",
+  email: "hassantalha807@gmail.com",
+  phone: "+92 316 5218752",
+  address: "Rawalpindi, Pakistan",
+  github: "https://github.com/hasn-t8",
+  facebook: "https://www.facebook.com/hasn.t8",
+  linkedIn: "https://www.linkedin.com/in/hassan-talha-452a7a283",
+  twitter: "https://twitter.com/hasn_t8",
+  stackOverflow: "https://stackoverflow.com/users/your-id/hassan-talha", // replace with actual ID
+  leetcode: "https://leetcode.com/hasn_t8/", // if you have an account
+  devUsername: "hasn-t8",
+  resume: "https://drive.google.com/file/d/your_resume_id/view?usp=sharing" // replace with your actual CV link
 }

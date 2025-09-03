@@ -10,9 +10,9 @@ import "./css/globals.scss";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio of Abu Said - Software Developer",
+  title: "Portfolio of Hassan Talha - Software Developer",
   description:
-    "This is the portfolio of Abu Said. I am a full stack developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
+    "I am a passionate Flutter Developer with experience in building cross-platform mobile apps, backend systems, and web applications. Skilled in Flutter, Dart, Node.js, and Next.js, I focus on delivering clean, user-friendly, and scalable solutions. I enjoy solving problems, learning new technologies, and creating impactful digital experiences. I am open to opportunities that align with my skills and career growth.",
 };
 
 export default function RootLayout({ children }) {

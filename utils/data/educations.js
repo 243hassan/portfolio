@@ -1,20 +1,20 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Bachelor in Computer Science",
+    duration: "2020 - 2024",
+    institution: "National University of Modern Languages (NUML), Islamabad",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Intermediate in Computer Science (ICS)",
+    duration: "2017 - 2019",
+    institution: "Super Wings College For Boys, Kallar Syedan",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "Matriculation in Computer Science",
+    duration: "2015 - 2017",
+    institution: "Tayyba Model School, Bhata Rawalpindi",
   }
 ]

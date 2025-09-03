@@ -151,21 +151,21 @@ Eg:
 
 ```javascript
 export const personalData = {
-  name: "ABU SAID",
+  name: "Hassan Talha",
   profile: "/profile.png",
-  designation: "Full-Stack Software Developer",
-  description: "My name is ABU SAID....",
-  email: "abusaid7388@gmail.com",
-  phone: "+8801608797655",
-  address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "...",
+  designation: "Software Developer",
+  description: "My name is Hassan Talha....",
+  email: "Hassantalha807@gmail.com",
+  phone: "+92 316 5218752",
+  address: "Rawalpindi, Pakistan",
+  github: "https://github.com/hasn-t8",
+  facebook: "https://www.facebook.com/hasn.t8",
+  linkedIn: "https://www.linkedin.com/in/hassan-talha-452a7a283",
+  twitter: "https://twitter.com/hasn_t8",
+  stackOverflow: "https://stackoverflow.com/users/your-id/hassan-talha",
+  leetcode: "https://leetcode.com/hasn_t8/", 
+  devUsername: "hasn-t8",
+  resume: "https://drive.google.com/file/d/your_resume_id/view?usp=sharing" 
 };
 ```
 
