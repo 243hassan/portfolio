@@ -1,4 +1,3 @@
-"use client"; // ✅ Re
 import { projectsData } from '@/utils/data/projects-data';
 import ProjectCard from './project-card';
 

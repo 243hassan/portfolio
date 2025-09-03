@@ -1,5 +1,4 @@
 // @flow strict
-"use client";  // ✅ Required because of Marquee
 
 import { skillsData } from "@/utils/data/skills";
 import { skillsImage } from "@/utils/skill-image";

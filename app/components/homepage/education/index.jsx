@@ -1,5 +1,4 @@
 // @flow strict
-"use client"; // ✅ Required because of AnimationLottie (Lottie uses client-side APIs)
 
 import { educations } from "@/utils/data/educations";
 import Image from "next/image";

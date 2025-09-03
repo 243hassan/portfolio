@@ -1,6 +1,4 @@
 // @flow strict
-"use client"; // ✅ Required because ContactForm is interactive
-
 import { personalData } from '@/utils/data/personal-data';
 import Link from 'next/link';
 import { BiLogoLinkedin } from "react-icons/bi";

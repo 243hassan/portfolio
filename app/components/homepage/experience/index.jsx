@@ -1,5 +1,4 @@
 // @flow strict
-"use client";   // ✅ Add here
 
 import { experiences } from "@/utils/data/experience";
 import Image from "next/image";
